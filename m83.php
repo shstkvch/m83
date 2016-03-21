@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: M83 - Routing for WordPress
- * Version: 0.1-alpha
+ * Version: 0.2
  * Description: Simple router plugin to direct templates to helper classes.
  * Author: David Hewitson
  * Author URI: http://github.com/shstkvch/
